@@ -1,0 +1,48 @@
+.button{
+    border-radius: 50px;
+    background-color: #5B7AF8;
+    border: none;
+    color: white;
+    font-size:16px;
+}
+ 
+.download{
+    color: black;
+    text-decoration: none;
+}
+
+     /* Remove the default border */
+     input.form-control,
+     textarea.form-control {
+         border: none;
+         border-bottom: 1px solid rgb(243, 235, 235);
+     }
+
+     /* Change the border color on focus */
+     input.form-control:focus,
+     textarea.form-control:focus {
+         border-bottom: 2px solid blue; /* You can change the color to your preference */
+     }
+  
+    .rounded-circle-button {
+        border-radius: 50px;
+    background-color: #5B7AF8;
+    border: none;
+    color: white;
+    font-size:16px;
+    width: 150px;
+    padding: 13px;
+    }
+    .custom-container {
+        height: 70px;
+      }
+        .nav-item .nav-link{
+            border-radius: 20px;
+        }
+
+            .nav-link.active,
+            .nav-link:hover {
+                background-color: #4A6CF7;
+                color: white;
+            }
+        
